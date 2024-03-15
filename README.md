@@ -25,7 +25,7 @@ Finalizado. Listo para su uso.
 
 ## Instalación
 
-Clona el repositorio de este proyecto de GitHub y péguelo en el directorio que desee.
+Clona el repositorio de este proyecto de GitHub y péguelo en el directorio que desee
 https://github.com/raulquintano/practica3.git
 
 
